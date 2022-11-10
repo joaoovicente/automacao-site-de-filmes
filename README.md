@@ -1,4 +1,4 @@
-<h1 align="center">Desafio Técnico QA</h1>
+<h1 align="center">Sistema de gerenciamento de filmes - NinjaFlix</h1>
 
 ### 📌 Indice
 
@@ -14,7 +14,7 @@
 
 ## 🔎 Sobre
 
-O projeto é realizado em um sistema no qual fornece o gerenciamento de filmes,   
+O projeto foi realizado em um sistema no qual fornece o gerenciamento de filmes,   
 nele foi feita **automação de testes funcionais (end-to-end) com cenários em Gherkin** das funcionalidades do sistema.
 
 ---
