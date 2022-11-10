@@ -1,4 +1,4 @@
-<h1 align="center">Sistema de gerenciamento de filmes - NinjaFlix</h1>
+<h1 align="center">Sistema de gerenciamento de filmes</h1>
 
 ### 📌 Indice
 
