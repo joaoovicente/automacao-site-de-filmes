@@ -1,5 +1,6 @@
 #language: pt
 
+@regressivo
 Funcionalidade: Login
     Para que eu possa gerenciar os filmes do catálogo NinjaFlix
     Sendo um usuário previamente cadastrado

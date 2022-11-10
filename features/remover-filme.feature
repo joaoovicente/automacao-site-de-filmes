@@ -1,6 +1,6 @@
 #language:pt
 
-@login
+@login @regressivo
 Funcionalidade: Remover filme
     Para que eu possa manter o catálogo atualizado
     Sendo que um gestor de catálogo que encontrou um título cancelado/indesejado ou que não tem uma boa aceitação pelo público
